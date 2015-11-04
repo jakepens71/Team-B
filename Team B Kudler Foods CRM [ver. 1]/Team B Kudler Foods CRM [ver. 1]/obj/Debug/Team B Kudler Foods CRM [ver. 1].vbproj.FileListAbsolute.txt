@@ -1,0 +1,37 @@
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe.config
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.CustomerForm.resources
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.MainForm.resources
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.Resources.resources
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].vbproj.GenerateResource.Cache
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\Mario\OneDrive\Documents\POS408\Week 2\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Customer_Database.accdb
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe.config
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.CustomerForm.resources
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.MainForm.resources
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.Resources.resources
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].vbproj.GenerateResource.Cache
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\Jacob\Desktop\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe.config
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.CustomerForm.resources
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.MainForm.resources
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.Resources.resources
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team_B_Kudler_Foods_CRM__ver._1_.SearchCustomer.resources
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].vbproj.GenerateResource.Cache
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].exe
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].xml
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].pdb
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\bin\Debug\Customer_Database.accdb
+C:\Users\jshay\Downloads\Team B Kudler_Fine_Foods_Added_Database\Team B Kudler Foods CRM [ver. 1]\Team B Kudler Foods CRM [ver. 1]\obj\Debug\Team B Kudler Foods CRM [ver. 1].vbprojResolveAssemblyReference.cache
